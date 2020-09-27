@@ -1,0 +1,65 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url(fonts/Cocogoose Pro.ttf);
+  src: url(fonts/Cocogoose Pro.woff);
+  src: url(fonts/Cocogoose.woff2);
+}
+@font-face {
+  font-family: mySecondFont;
+  src: url(fonts/CODE Bold.otf);
+  src: url(fonts/CODE Bold.eot);
+  src: url(fonts/CODE Bold.ttf);
+  src: url(fonts/CODE Bold.woff);
+  src: url(fonts/CODE Bold.woff2);
+}
+@font-face {
+  font-family: myThirdFont;
+  src: url(fonts/CODE light.otf);
+  src: url(fonts/CODE light.eot);
+  src: url(fonts/CODE light.ttf);
+  src: url(fonts/CODE light.woff);
+  src: url(fonts/CODE light.woff2);
+}
+.jumbotron {
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: #999bf1 !important;
+  border-radius: 0.3rem;
+}
+h1 {
+  color: #fdbd5a !important;
+  font-family: "Cocogoose Pro", DemiBold, sans-serif !important;
+  font-weight: 800 !important;
+}
+.card {
+  margin-left: 4em !important;
+  background-color: #8dc1ff !important;
+  border: 3px solid #6c70de !important;
+  border-radius: 0.45rem !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+}
+.card-header {
+  background-color: rgba(238, 68, 141, 0.8) !important;
+  border-bottom: 4px groove rgba(156, 154, 244, 0.9) !important;
+}
+
+.card-title {
+  margin-bottom: 0.75rem;
+  text-align: center !important;
+}
+h2 {
+  font-family: "CODE Bold", sans-serif !important;
+}
+h3 {
+  font-family: "CODE Light", sans-serif !important;
+  font-weight: 600 !important;
+}
+.list-group-item {
+  position: relative;
+  display: block;
+  padding: 0.75rem 1.25rem;
+  margin-bottom: -1px;
+  background-color: #fedc5a !important;
+  border: 2px solid rgba(250, 156, 63, 0.725) !important;
+  font-family: "CODE Bold", sans-serif !important;
+}
