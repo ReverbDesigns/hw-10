@@ -16,7 +16,7 @@ This project is licensed under Apache 2.0 - see the https://www.apache.org/licen
 ### Terminal Screen Shot
 <img src="assets/project10.gif" alt="animation of prompts in process" />
 ### Terminal Screen Shot
-<img src="assets/teamgen.png" alt="drawing" />
+<img src="assets/render.png" alt="prompt page render" />
 ### Author
 
 **Jordan Bell**
