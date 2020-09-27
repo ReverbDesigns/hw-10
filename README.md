@@ -14,7 +14,7 @@ so that I have quick access to emails and GitHub profiles
 ## License 
 This project is licensed under Apache 2.0 - see the https://www.apache.org/licenses/LICENSE-2.0.txt file for details
 ### Terminal Screen Shot
-<img src="assets/project10.gif" alt="animation of prompts in process" />
+<img src="assets/term10.gif" alt="animation of prompts in process" />
 ### Terminal Screen Shot
 <img src="assets/render.png" alt="prompt page render" />
 ### Author
